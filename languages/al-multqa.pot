@@ -1,0 +1,95 @@
+# Copyright (C) 2026 Nasq
+msgid ""
+msgstr ""
+"Project-Id-Version: Al-Multaqa 1.0.0\n"
+"POT-Creation-Date: 2026-01-31\n"
+"Language-Team: Arabic (https://nasq.com)\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: al-multqa\n"
+
+#: inc/setup.php:24
+msgid "Sidebar"
+msgstr ""
+
+#: inc/setup.php:24
+msgid "Main sidebar"
+msgstr ""
+
+#: inc/setup.php:27
+msgid "Footer 1"
+msgstr ""
+
+#: inc/setup.php:27
+msgid "Footer column 1"
+msgstr ""
+
+#: inc/setup.php:30
+msgid "Footer 2"
+msgstr ""
+
+#: inc/setup.php:30
+msgid "Footer column 2"
+msgstr ""
+
+#: inc/setup.php:33
+msgid "Footer 3"
+msgstr ""
+
+#: inc/setup.php:33
+msgid "Footer column 3"
+msgstr ""
+
+#: index.php:6
+msgid "Nothing found"
+msgstr ""
+
+#: page.php:9
+msgid "المُلتقى - قالب WordPress احترافي"
+msgstr ""
+
+#: page.php:9
+msgid "قالب متعدد الاستخدام مع دعم RTL كامل وسرعة فائقة"
+msgstr ""
+
+#: page.php:13
+msgid "اكتشف الميزات"
+msgstr ""
+
+#: page.php:13
+msgid "تواصل معنا"
+msgstr ""
+
+#: page.php:16
+msgid "خدماتنا"
+msgstr ""
+
+#: page.php:22
+msgid "التصميم"
+msgstr ""
+
+#: page.php:23
+msgid "تصاميم احترافية تناسب الشركات"
+msgstr ""
+
+#: page.php:26
+msgid "التطوير"
+msgstr ""
+
+#: page.php:27
+msgid "كود نظيف وسريع"
+msgstr ""
+
+#: page.php:30
+msgid "الدعم"
+msgstr ""
+
+#: page.php:31
+msgid "دعم فني متواصل"
+msgstr ""
+
+#: template-parts/content.php:11
+msgid "اقرأ المزيد"
+msgstr ""

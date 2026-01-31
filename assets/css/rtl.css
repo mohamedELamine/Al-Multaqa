@@ -1,0 +1,4 @@
+[dir="rtl"] body { text-align: right; }
+[dir="rtl"] .alm-sidebar { padding-left: 0; padding-right: 40px; }
+[dir="rtl"] .alm-menu a:hover { color: var(--alm-primary); }
+[dir="rtl"] .alm-footer-grid { direction: rtl; }
